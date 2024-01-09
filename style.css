@@ -1,0 +1,36 @@
+body{
+    background-color: #3fc202;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+}
+
+.date{
+    font-size: 25px;
+    font-weight: 400;
+}
+
+h1{
+    font-weight: 900;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+a:visited{
+    color: #212529;
+}
+
+a:active{
+    color: purple;
+}
+
+img{
+    border: white 5px solid;
+    padding: 10px 10px 10px 10px;
+    margin: 10px 10px 10px 10px;
+}
